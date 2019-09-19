@@ -1,0 +1,123 @@
+Cmp-Mod V01 Created by PcbNew   date = Sun 16 Sep 2018 05:16:55 PM EDT
+
+BeginCmp
+TimeStamp = 5B9F16B0
+Path = /5BA09AB8
+Reference = MH2;
+ValeurCmp = MountingHole;
+IdModule  = Mounting_Holes:MountingHole_2.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B9F16A8
+Path = /5BA096E8
+Reference = MH1;
+ValeurCmp = MountingHole;
+IdModule  = Mounting_Holes:MountingHole_2.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B9F05DE
+Path = /5BA064A3
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LEDs:LED_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B9F37EF
+Path = /5BA0753B
+Reference = R2;
+ValeurCmp = 470;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B9F0534
+Path = /5B9F2CDA
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B9EF39D
+Path = /5B9FE2E4
+Reference = C3;
+ValeurCmp = 4.7uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B9DC6C6
+Path = /5B9E879F
+Reference = U1;
+ValeurCmp = BGM113;
+IdModule  = Daniel:BGM113;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B9DEE5B
+Path = /5B9E8AB8
+Reference = J1;
+ValeurCmp = TopRow;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x12_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B9DEE7F
+Path = /5B9E8D97
+Reference = J2;
+ValeurCmp = BottomRow;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x16_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B9DFF54
+Path = /5B9E9949
+Reference = J3;
+ValeurCmp = BAT;
+IdModule  = Daniel:JST-S2B-PH;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B9EE4A3
+Path = /5B9F0533
+Reference = C1;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B9ECFFE
+Path = /5B9F04FF
+Reference = C2;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B9EDF01
+Path = /5B9F41C2
+Reference = J4;
+ValeurCmp = USB_B_Micro;
+IdModule  = Daniel:SUNTECH_ST-USB-001G;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B9F3226
+Path = /5B9F1884
+Reference = U3;
+ValeurCmp = MCP73831-2-OT;
+IdModule  = TO_SOT_Packages_SMD:SOT-23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B9F351D
+Path = /5BA0AE90
+Reference = J5;
+ValeurCmp = Conn_ARM_JTAG_SWD_10;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x10_Pitch1.27mm_SMD;
+EndCmp
+
+EndListe
